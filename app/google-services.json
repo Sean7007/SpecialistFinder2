@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883937709366",
+    "firebase_url": "https://specialistfinder2.firebaseio.com",
+    "project_id": "specialistfinder2",
+    "storage_bucket": "specialistfinder2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883937709366:android:b2270143fcb4aa2393f797",
+        "android_client_info": {
+          "package_name": "com.example.specialistfinder2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883937709366-n2bhn0l8r0mrdp7udat23ctjv38v5g1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.specialistfinder2",
+            "certificate_hash": "8620567c198bff9c8979b26f0bc93b2f2a59cbcd"
+          }
+        },
+        {
+          "client_id": "883937709366-oi983cpbcqt47s4ifvhgisgcjfl4v9k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlCATVVx0HjIqwOxnsNLHHDpfTsc9mOiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883937709366-oi983cpbcqt47s4ifvhgisgcjfl4v9k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
